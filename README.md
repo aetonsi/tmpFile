@@ -3,5 +3,5 @@
 ```
 tmpFile.exe
 tmpFile.exe
-> prints a possible filename for a new temporary file
+> creates a new temporary file and prints its path
 ```
